@@ -1,0 +1,23 @@
+ *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+
+    font-family: 'Courier New', Courier, monospace
+}
+
+
+.my-row-1{
+background-color: rgb(138, 173, 202);
+height: 20vh;
+}
+
+
+.todo-complete{
+text-decoration: line-through;
+text-decoration-thickness: 3px;
+opacity: 0.3;
+}
